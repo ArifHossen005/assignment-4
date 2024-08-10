@@ -62,7 +62,7 @@
                     </div>
                 </div>
                 <div class="card-footer bg-light text-end">
-                    <a href="{{ route('contacts.index') }}" class="btn btn-outline-primary">Back to List</a>
+                    <a href="{{ route('contacts.index') }}" class="btn btn-info">Back to List</a>
                 </div>
             </div>
         </div>
